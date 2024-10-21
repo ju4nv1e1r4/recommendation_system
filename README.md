@@ -25,7 +25,7 @@ Defina o objetivo do seu projeto
 **Uso**
 
 ´´´
-git clone 
+git clone https://github.com/ju4nv1e1r4/retail_sales.git
 ´´´
 
 ´´´
